@@ -1,0 +1,17 @@
+PARA FAZER A INSTALAÇÂO SIGA OS PASSO.
+
+SEUDOMINIO.COM/install
+
+VAI PEDIR TOKEN:
+
+token: Patoxy
+com P maiusculo
+
+em seguida vai pedir conexão com banco de dados, so criar um banco de dados e seguir inserindo o acesso.
+CASO TENHA PROBLES EM LOGAR O BANCO DE DADOS FAÇA MANUAL SEGUE O CAMINHO: dash\internal\config.php
+
+Para adicionar produtp abre o arquivo, codigo para adicionar produto.txt,
+copie tudo e jogue na caixinha em preta que pede para inserir codigo fonte, depois e só editar as informaçoes
+
+caso queira outras telas $$ entre em contato comigo, telegram: @dumalote
+faço qualquer tipo de tela fake e engenharias para qualquer trampo
