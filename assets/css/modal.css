@@ -1,0 +1,115 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+/* The Modal (background) */
+
+.modal {
+    display: none;
+    /* Hidden by default */
+    position: fixed;
+    /* Stay in place */
+    z-index: 1;
+    /* Sit on top */
+    padding-top: 100px;
+    /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%;
+    /* Full width */
+    height: 100%;
+    /* Full height */
+    overflow: auto;
+    /* Enable scroll if needed */
+    background-color: rgb(0, 0, 0);
+    /* Fallback color */
+    background-color: rgba(0, 0, 0, 0.4);
+    /* Black w/ opacity */
+}
+
+
+.modal-vd {
+    display: none;
+    /* Hidden by default */
+    position: absolute;
+    /* Stay in place */
+    z-index: 1;
+    /* Sit on top */
+    padding-top: 100px;
+    /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%;
+    /* Full width */
+    height: 100%;
+    /* Full height */
+    overflow: auto;
+    /* Enable scroll if needed */
+    background-color: rgb(0, 0, 0);
+    /* Fallback color */
+    background-color: rgba(0, 0, 0, 0.4);
+    /* Black w/ opacity */
+}
+
+/* Modal Content */
+
+.modal-content {
+    background-color: #fefefe;
+    margin: auto;
+    padding: 20px;
+    padding-bottom: 51px;
+    border: 1px solid #888;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    animation: 0.3s ease-in-out 0s 1 normal none running cRrTAo;
+    background-color: rgb(244, 244, 244);
+    border-radius: 12px;
+}
+
+
+/* The Close Button */
+
+.close {
+    color: #aaaaaa;
+    float: left;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.local {
+    margin: 6px 0px;
+    padding: 8px;
+    font-size: 18px;
+}
+
+.cep {
+    font-weight: 400;
+    font-size: 12px;
+    color: rgb(0, 134, 255);
+}
+
+.inp {
+    border-width: 0px 0px 1px;
+    border-top-style: initial;
+    border-right-style: initial;
+    border-left-style: initial;
+    border-image: initial;
+    width: 100%;
+    border-radius: 0px;
+    border-bottom-style: solid;
+    border-color: rgb(0, 134, 255);
+    padding: 0px 0px 8px;
+    line-height: 1.4;
+    font-size: 16px;
+    background-color: transparent;
+    margin-top: 4px;
+}
